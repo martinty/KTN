@@ -16,3 +16,12 @@ git clone https://github.com/martinty/KTN.git
 # Note
 Må pulle først hvis man ønsker å pushe de endringene man har gjort.
 Ellers kan man bare clone.
+
+# clone from branch
+git init 
+git clone -b <branch> https://github.com/martinty/KTN.git
+
+# pull from branch
+git init
+git pull https://github.com/martinty/KTN.git/ <branch>
+
