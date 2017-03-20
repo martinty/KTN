@@ -2,16 +2,16 @@
 git init
 git add .
 git commit -m "comment"
-git remote add origin https://github.com/martinty/heis.git
+git remote add origin https://github.com/martinty/KTN.git
 git push origin master
 
 # pull from github
 git init
-git pull https://github.com/martinty/heis.git 
+git pull https://github.com/martinty/KTN.git 
 
 # clone from github
 git init
-git clone https://github.com/martinty/heis.git 
+git clone https://github.com/martinty/KTN.git
 
 # Note
 Må pulle først hvis man ønsker å pushe de endringene man har gjort.
