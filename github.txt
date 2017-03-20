@@ -1,5 +1,4 @@
 # push to github
-git init
 git add .
 git commit -m "comment"
 git remote add origin https://github.com/martinty/KTN.git
@@ -25,3 +24,8 @@ git clone -b <branch> https://github.com/martinty/KTN.git
 git init
 git pull https://github.com/martinty/KTN.git/ <branch>
 
+# push to branch
+git add .
+git commit -m "comment"
+git checkout -b <branch>
+git push -u  https://github.com/martinty/KTN.git <branch>
