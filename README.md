@@ -1,2 +1,3 @@
-# TTM4100 - Kommunikasjon - Tjenester og nett
-Chat project
+# KTN
+Vår 2017
+server
